@@ -1,5 +1,5 @@
 {
-    "name": "fidelizeclient",
+    "name": "fidelize/client",
     "description": "Client fidelize to connect in services",
     "version": "1.0",
     "type": "project",
